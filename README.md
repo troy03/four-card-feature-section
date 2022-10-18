@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/troy03/four-card-feature-section)
+- Live Site URL: (https://troy03.github.io/four-card-feature-section/)
 
 ## My process
 - I read CSS Tricks guide and search tutorial about grid in youtube in able to solve this project

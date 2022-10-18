@@ -197,4 +197,17 @@ h1 span {
 
 }
 
+.attribution {
+  font-size: 1rem;
+  
+}
+
+.attribution a {
+  text-decoration: none;
+}
+
+.attribution a:hover {
+  color:hsl(212, 86%, 64%)
+}
+
 

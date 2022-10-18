@@ -197,7 +197,7 @@ h1 span {
 
 }
 
-.attribution {
+footer .attribution {
   font-size: 1rem;
   
 }
@@ -207,7 +207,8 @@ h1 span {
 }
 
 .attribution a:hover {
-  color:hsl(212, 86%, 64%)
+  color:hsl(212, 86%, 64%);
+  text-decoration: underline;
 }
 
 
